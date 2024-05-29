@@ -1,6 +1,6 @@
 # Facial Recognition Attendance System
 
-[Assessment Briefs](/AssessmentBriefs) folder contains all the assessment briefs related to the project.
+[AssessmentBriefs](/AssessmentBriefs) folder contains all the assessment briefs related to the project.
 
 [report.docx](/report.docx) - This is a report of the application. It includes the following sections:
   - Literature Review
