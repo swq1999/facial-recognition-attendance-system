@@ -1,0 +1,15 @@
+customtkinter
+Pillow
+opencv-python
+keras
+numpy
+pytest
+scikit-learn
+scikit-image
+imageio
+matplotlib
+seaborn
+bing-image-downloader
+
+
+
