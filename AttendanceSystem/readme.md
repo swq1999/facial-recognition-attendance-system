@@ -30,9 +30,8 @@ pip install -r requirements.txt
 ## Getting Started
 To run the application, follow these simple steps:
 
-1. Make sure you have Python installed on your system.
-2. Navigate to the main directory where `app.py` is located.
-3. Run the application by executing the following command in the terminal:
+1. Navigate to the main directory where `app.py` is located.
+2. Run the application by executing the following command in the terminal:
 
 ```bash
 py app.py
